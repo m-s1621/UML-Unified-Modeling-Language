@@ -1,4 +1,3 @@
-# 2022fa-420-JAMBL
 # Description
 Users can use this command line interface to construct a class UML diagram. It contains class features such as add, remove, and rename. Fields and methods can be added/removed/edited to each class. Furthermore, this tool allows users to build or remove a class relationship. Once the UML diagram is constructed, the user can view a list of classes, a class with attributes, and a list of relationships. Once the user has completed creating the UML diagram, the program can be saved to a Json format, and the exit command can be used to exit the program. A previously saved file can also be uploaded to the UML editor. A help command is provided to aid the user.
 
